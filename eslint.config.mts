@@ -29,7 +29,7 @@ export default defineConfig([
           trailingComma: 'es5',
           endOfLine: 'auto',
           useTabs: false,
-          tabWidth: 10,
+          tabWidth: 2,
           singleQuote: true,
           printWidth: 80,
           jsxSingleQuote: true,
